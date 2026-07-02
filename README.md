@@ -2,6 +2,10 @@
 
 具备 AI 应用开发、水文科研计算与 IT 运维实践，持续积累 RAG 系统开发、深度学习时序预测、Windows/Linux 环境部署及故障排查经验。
 
+## 简历资料
+
+- [IT Support Resume Master](resume/IT_Support_Resume_Master.md)
+
 ## 项目经历
 
 ### 手搓 RAG：检索增强生成知识库系统
